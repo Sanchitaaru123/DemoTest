@@ -29,5 +29,11 @@ public class NewTestThree {
 		  
 		  System.out.println("Hello");
 	  }
+	  @Test
+	  public void Cong() {
+		  
+		  System.out.println("Congrats Sanchita");
+	  }
+	  
 
 }
