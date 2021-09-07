@@ -24,5 +24,10 @@ public class NewTestThree {
 		  System.out.println("DIV3");
 	  }
 
+	  @Test
+	  public void sayhello() {
+		  
+		  System.out.println("Hello");
+	  }
 
 }
